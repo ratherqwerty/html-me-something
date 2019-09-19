@@ -1,0 +1,21 @@
+body {
+    height: 100%;
+    margin: 0;
+    text-align: center;
+    width: 100%;
+}
+
+.techie {
+    padding: 200px 0;
+    margin: 32px;
+    font-family: 'Palatino', sans-serif;
+}
+
+p {
+    font-size: 3rem;
+    color: #ffffff
+}
+
+#title-class {
+    color: rgb(153, 141, 33)
+}
