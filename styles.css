@@ -3,6 +3,7 @@ body {
     margin: 0;
     text-align: center;
     width: 100%;
+    color: pink;
 }
 
 .techie {
@@ -13,9 +14,10 @@ body {
 
 p {
     font-size: 3rem;
-    color: #ffffff
+ 
 }
 
-#title-class {
-    color: rgb(153, 141, 33)
+#header {
+    color : yellow
 }
+
